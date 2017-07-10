@@ -1,0 +1,5 @@
+/home/rajakumar/Csharpprgs/LateBindingShape/LateBindingShapes/LateBindingShapes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/rajakumar/Csharpprgs/LateBindingShape/LateBindingShapes/LateBindingShapes/bin/Debug/LateBindingShapes.exe.mdb
+/home/rajakumar/Csharpprgs/LateBindingShape/LateBindingShapes/LateBindingShapes/bin/Debug/LateBindingShapes.exe
+/home/rajakumar/Csharpprgs/LateBindingShape/LateBindingShapes/LateBindingShapes/obj/x86/Debug/LateBindingShapes.exe
+/home/rajakumar/Csharpprgs/LateBindingShape/LateBindingShapes/LateBindingShapes/obj/x86/Debug/LateBindingShapes.exe.mdb
